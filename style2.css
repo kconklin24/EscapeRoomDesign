@@ -1,0 +1,21 @@
+h1{text-align:center;
+ font-family:Luminari;}
+p{text-align:center;
+ font-family:Luminari;}
+
+#dropBox{
+     width:350px;
+     height:80px;
+     border: 1px red;
+     background: red;
+     text-align: center;
+     margin: 20px 0;
+     color: blue;
+     margin: 10px;
+
+}
+
+span{
+  font-size:60px;
+}
+body{background-color: brown}
