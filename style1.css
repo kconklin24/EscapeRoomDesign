@@ -1,0 +1,14 @@
+h1{
+  text-align:center;
+  font-variant:small-caps;
+  font-family:Luminari;
+}
+h2 {
+  text-align: left;
+  font-size: 14pt;
+   font-family:Luminari;
+}
+body {
+   background-color: burlywood;
+   padding: 50px;
+  }
